@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lb.cache:cache-olps:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-olps/1.0-SNAPSHOT/cache-olps-1.0-20160710.232406-63.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-olps/1.0-SNAPSHOT/cache-olps-1.0-20160710.232406-63-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-olps/1.0-SNAPSHOT/cache-olps-1.0-20160710.232406-63-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

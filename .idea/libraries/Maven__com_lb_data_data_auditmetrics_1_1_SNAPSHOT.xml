@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lb.data:data-auditmetrics:1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-auditmetrics/1.1-SNAPSHOT/data-auditmetrics-1.1-20160829.013522-12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-auditmetrics/1.1-SNAPSHOT/data-auditmetrics-1.1-20160829.013522-12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-auditmetrics/1.1-SNAPSHOT/data-auditmetrics-1.1-20160829.013522-12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

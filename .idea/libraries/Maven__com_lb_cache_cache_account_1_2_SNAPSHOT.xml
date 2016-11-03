@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lb.cache:cache-account:1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-account/1.2-SNAPSHOT/cache-account-1.2-20160710.224034-10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-account/1.2-SNAPSHOT/cache-account-1.2-20160710.224034-10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-account/1.2-SNAPSHOT/cache-account-1.2-20160710.224034-10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

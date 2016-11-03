@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lb.data:data-account:1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-account/1.2-SNAPSHOT/data-account-1.2-20160718.212529-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-account/1.2-SNAPSHOT/data-account-1.2-20160718.212529-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-account/1.2-SNAPSHOT/data-account-1.2-20160718.212529-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

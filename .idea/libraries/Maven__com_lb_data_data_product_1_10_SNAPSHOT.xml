@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lb.data:data-product:1.10-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-product/1.10-SNAPSHOT/data-product-1.10-20161026.191834-4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-product/1.10-SNAPSHOT/data-product-1.10-20161026.191834-4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-product/1.10-SNAPSHOT/data-product-1.10-20161026.191834-4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

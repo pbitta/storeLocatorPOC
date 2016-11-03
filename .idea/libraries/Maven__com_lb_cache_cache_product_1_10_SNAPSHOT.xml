@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lb.cache:cache-product:1.10-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-product/1.10-SNAPSHOT/cache-product-1.10-20161026.192025-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-product/1.10-SNAPSHOT/cache-product-1.10-20161026.192025-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-product/1.10-SNAPSHOT/cache-product-1.10-20161026.192025-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

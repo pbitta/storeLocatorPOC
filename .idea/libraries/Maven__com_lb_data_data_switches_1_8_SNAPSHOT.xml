@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lb.data:data-switches:1.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-switches/1.8-SNAPSHOT/data-switches-1.8-20161102.165054-8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-switches/1.8-SNAPSHOT/data-switches-1.8-20161102.165054-8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-switches/1.8-SNAPSHOT/data-switches-1.8-20161102.165054-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

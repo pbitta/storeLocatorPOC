@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lb.cache:cache-lovelist:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-lovelist/1.0-SNAPSHOT/cache-lovelist-1.0-20160710.232348-83.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-lovelist/1.0-SNAPSHOT/cache-lovelist-1.0-20160710.232348-83-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-lovelist/1.0-SNAPSHOT/cache-lovelist-1.0-20160710.232348-83-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

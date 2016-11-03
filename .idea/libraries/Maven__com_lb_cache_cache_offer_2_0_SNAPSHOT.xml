@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lb.cache:cache-offer:2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-offer/2.0-SNAPSHOT/cache-offer-2.0-20160818.145140-10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-offer/2.0-SNAPSHOT/cache-offer-2.0-20160818.145140-10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/cache/cache-offer/2.0-SNAPSHOT/cache-offer-2.0-20160818.145140-10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

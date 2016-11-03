@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lb.data:data-feature:1.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-feature/1.8-SNAPSHOT/data-feature-1.8-20160929.211046-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-feature/1.8-SNAPSHOT/data-feature-1.8-20160929.211046-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lb/data/data-feature/1.8-SNAPSHOT/data-feature-1.8-20160929.211046-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

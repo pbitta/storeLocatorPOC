@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.bazaarvoice:bv-seo-sdk:2.1.0.0-beta-1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bazaarvoice/bv-seo-sdk/2.1.0.0-beta-1/bv-seo-sdk-2.1.0.0-beta-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bazaarvoice/bv-seo-sdk/2.1.0.0-beta-1/bv-seo-sdk-2.1.0.0-beta-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bazaarvoice/bv-seo-sdk/2.1.0.0-beta-1/bv-seo-sdk-2.1.0.0-beta-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

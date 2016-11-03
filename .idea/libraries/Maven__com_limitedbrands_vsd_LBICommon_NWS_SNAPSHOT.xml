@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.limitedbrands.vsd:LBICommon:NWS-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/limitedbrands/vsd/LBICommon/NWS-SNAPSHOT/LBICommon-NWS-20161102.210119-6978.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/limitedbrands/vsd/LBICommon/NWS-SNAPSHOT/LBICommon-NWS-20161102.210119-6978-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/limitedbrands/vsd/LBICommon/NWS-SNAPSHOT/LBICommon-NWS-20161102.210119-6978-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
